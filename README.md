@@ -39,4 +39,4 @@ You must migrate the election smart contract each time your restart ganache. **!
 Visit this URL in your browser: http://localhost:3000
 
 If you get stuck, please reference this video tutorial.
-[DAPP University tutorial for Node, Truffle, Ganache and Metamask](https://www.youtube.com/watch?v=3681ZYbDSSk) `timestamp: **8:53 - 11:38**`
+[DAPP University tutorial for Node, Truffle, Ganache and Metamask](https://www.youtube.com/watch?v=3681ZYbDSSk) `timestamp: 8:53 - 11:38`
