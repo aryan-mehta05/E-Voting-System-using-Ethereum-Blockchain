@@ -13,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project or download the files
-Link to clone project: `git clone https://github.com/dappuniversity/election`
+Link to clone project: `git clone https://github.com/aryan-mehta05/E-Voting-System-using-Ethereum-Blockchain`
 After cloning/downloading the files, save them in your new project folder.
 
 ## Step 2. Install dependencies
@@ -39,4 +39,4 @@ You must migrate the election smart contract each time your restart ganache. **!
 Visit this URL in your browser: http://localhost:3000
 
 If you get stuck, please reference this video tutorial.
-[DAPP University tutorial for Node, Truffle, Ganache and Metamask](https://www.youtube.com/watch?v=3681ZYbDSSk) `timestamp: *8:53 - 11:38*`
+[DAPP University tutorial for Node, Truffle, Ganache and Metamask](https://www.youtube.com/watch?v=3681ZYbDSSk) `timestamp: **8:53 - 11:38**`
