@@ -5,7 +5,7 @@ Build this e-voting decentralized application, or Dapp, on the Ethereum Network 
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+These are the required prerequisites for this project, hence the host system must have these installed.
 - NPM: https://nodejs.org
 - Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
